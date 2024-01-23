@@ -8,3 +8,7 @@ html, body {
 h1 {
     font-size: 2em;
 }
+
+#banner {
+    width: 100%;
+}
